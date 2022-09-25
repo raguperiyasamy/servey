@@ -1,0 +1,16 @@
+.first{
+    background-color: rgb(28, 156, 152);
+    float:left;
+    width:700;
+    margin:100;
+    border: rgb(164, 35, 143);
+    align-content: center;
+    display: flex;
+}
+.stars 
+{
+    margin-left: 50px;
+}
+input [type="radio"]{
+    margin: 10px;
+}
